@@ -1,0 +1,19 @@
+.ticket{
+  border: 2px solid whitesmoke;
+  border-radius: 14px;
+  color: white;
+ 
+
+}
+
+.container{
+  text-align: center;
+  color: white;
+  margin-top: 350px;
+  
+
+}
+
+body{
+  background-color: #222;
+}
